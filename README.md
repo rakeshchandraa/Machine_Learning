@@ -2,7 +2,7 @@
 Student Info:
 Name: Rakesh Chandra Kolagani
 Student ID: 700757119
-                                  Assignment 1
+                                                Assignment 1
 
 Question 1:
 Given list of 10 students ages: ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
@@ -57,11 +57,9 @@ it_companies = {'Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Am
 • What is the symmetric difference between A and B 
 • Delete the sets completely 
 • Convert the ages to a set and compare the length of the list and the set.
-Code and Output:
+
 Difference between remove and discard is remove() throws an error if the element is not found in the list or doesn’t exist whereas discard() doesn’t throw an error.
  
- 
-
 Explanation:
 The code calculates the length of the it_companies set, adds 'Twitter' and multiple other companies, and removes 'Oracle', demonstrating the difference between remove and discard. It performs union, intersection, subset, and disjoint operations on sets A and B, finds their symmetric difference, and deletes the sets. Finally, it converts a list of ages to a set to compare their lengths, highlighting the removal of duplicates in the set.
 
@@ -72,17 +70,13 @@ The radius of a circle is 30 meters.
 • Take radius as user input and calculate the area
 
 
-Code and Output:
- 
-
 Explanation:
 The code calculates and prints the area and circumference of a circle with a given radius of 30 using the math module. It then prompts the user to input a radius, calculates the area of a circle with that user-provided radius, and prints the result.
 
 Question 6 
 “I am a teacher and I love to inspire and teach people” 
 • How many unique words have been used in the sentence? Use the split methods and set to get the unique words.
-Code and Output:
- 
+
 
 Explanation:
 The code splits a given sentence into individual words and converts the list of words into a set to eliminate duplicates. It then calculates the number of unique words by finding the length of the set and prints the result.
@@ -91,31 +85,21 @@ Question 7
 Use a tab escape sequence to get the following lines. 
 Name Age Country City 
 Asabeneh 250 Finland Helsinki
-Code and Output:
- 
+
 
 Explanation:
 The code uses the tab escape sequence \t to format the output into columns. The first print statement prints the headers "Name," "Age," "Country," and "City" separated by tabs. The second print statement prints the corresponding values "Asabeneh," "250," "Finland," and "Helsinki" in the same tab-separated format.
 
 
-
-
 Question 8 
 Use the string formatting method to display the following: radius = 10 area = 3.14 * radius ** 2 “The area of a circle with radius 10 is 314 meters square.”
-Code and Output:
- 
-
 
 Explanation:
 The code calculates the area of a circle with a given radius of 10 using the formula. It then creates a formatted string using an f-string to insert the radius and the integer value of the area into a message. Finally, it prints the message that displays the area of the circle.
 
 Question 9 
 Write a program, which reads weights (lbs.) of N students into a list and convert these weights to kilograms in a separate list using Loop. N: No of students (Read input from user) Ex: L1: [150, 155, 145, 148] Output: [68.03, 70.3, 65.77, 67.13]
-Code and Output:
- 
 
 Explanation:
 The code reads the number of students and their weights in pounds from the user, storing the weights in a list. It then converts these weights to kilograms using a conversion factor and rounds the results to two decimal places. Finally, it prints both the original weights in pounds and the converted weights in kilograms.
 
-
-![image](https://github.com/rakeshchandraa/Machine_Learning/assets/170479917/1385d7f5-c05b-4c06-8421-83ad5cd5a352)
