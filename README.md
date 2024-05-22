@@ -1,2 +1,4 @@
 # Machine_Learning
-ML
+Student Info:
+Name: Rakesh Chandra Kolagani
+Student ID: 700757119
