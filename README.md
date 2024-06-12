@@ -12,3 +12,6 @@ Assignment2 Video Link: https://vimeo.com/953754587/817362c6fb
 
 
 Assignment3A Video Link: https://vimeo.com/956780574/647458f0ce
+
+
+Assignment3B Video Link: https://vimeo.com/957191368/a1abe63415
